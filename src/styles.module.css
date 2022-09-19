@@ -40,3 +40,21 @@
   overflow: hidden;
   margin-right: -1rem;
 }
+
+@media (max-width: 575px) {
+  .buttonContainer {
+    bottom: 102px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  .buttonContainer {
+    bottom: 72px;
+  }
+}
+
+@media (min-width: 768px) {
+  .buttonContainer {
+    bottom: 20px;
+  }
+}

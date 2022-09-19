@@ -17,6 +17,11 @@ React component wrapper for Freshchat. The oficial documentation can be found he
 
 * * *
 
+### Download & Installation
+
+```shell 
+$ yarn add fh-storybook-dev-components
+```
 
 ### List of features
 
@@ -59,12 +64,6 @@ React component wrapper for Freshchat. The oficial documentation can be found he
           color: '#fff'
         }}
       />
-```
-
-### Download & Installation
-
-```shell 
-$ npm i reactjs-freshchat
 ```
 
 ### Contributing
